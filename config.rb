@@ -5,7 +5,6 @@ $num_instances=6
 $update_channel='stable'
 
 # Customize VMs
-#$vm_gui = false
 $vm_memory = 2048
 $vm_cpus = 2
 
